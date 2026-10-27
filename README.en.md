@@ -9,7 +9,7 @@ Dependencies: standard library only, **Python 3.9+**.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-account>/stats-tool.git
+git clone https://github.com/<seledka123>/stats-tool.git
 cd stats-tool
 ```
 
