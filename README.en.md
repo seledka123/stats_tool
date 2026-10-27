@@ -66,3 +66,7 @@ python -m unittest discover -s tests -t . -v
 - [Technical specification](docs/TZ.md)
 - [Test cases](docs/TEST_CASES.md)
 - [Maintenance regulations](docs/MAINTENANCE.md)
+
+  ## Author
+
+Dyomin Danil Konstantinovich, Isp-31, KGB POY HPET, [GitHub: seledka123](https://github.com/seledka123)
