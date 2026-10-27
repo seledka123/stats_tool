@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<ваш-аккаунт>/stats-tool.git
+git clone https://github.com/<seledka123>/stats-tool.git
 cd stats-tool
 ```
 
