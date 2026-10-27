@@ -75,3 +75,7 @@ python -m unittest discover -s tests -t . -v
 - [Техническое задание](docs/TZ.md)
 - [Тест-кейсы](docs/TEST_CASES.md)
 - [Регламент технического обслуживания](docs/MAINTENANCE.md)
+
+  ## Автор
+
+Дёмин Данил Константинович, Исп-31, КГБ ПОУ ХПЭТ, [GitHub: seledka123](https://github.com/seledka123)
